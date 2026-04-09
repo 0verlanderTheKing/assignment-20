@@ -1,0 +1,22 @@
+C:\Users\25jwh\Desktop\Visual Studio\Assingment 19\Assingment 19\bin\Debug\Assingment 19.exe.config
+C:\Users\25jwh\Desktop\Visual Studio\Assingment 19\Assingment 19\bin\Debug\Assingment 19.exe
+C:\Users\25jwh\Desktop\Visual Studio\Assingment 19\Assingment 19\bin\Debug\Assingment 19.pdb
+C:\Users\25jwh\Desktop\Visual Studio\Assingment 19\Assingment 19\obj\Debug\Assingment 19.csproj.AssemblyReference.cache
+C:\Users\25jwh\Desktop\Visual Studio\Assingment 19\Assingment 19\obj\Debug\Assingment_19.Form1.resources
+C:\Users\25jwh\Desktop\Visual Studio\Assingment 19\Assingment 19\obj\Debug\Assingment_19.Properties.Resources.resources
+C:\Users\25jwh\Desktop\Visual Studio\Assingment 19\Assingment 19\obj\Debug\Assingment 19.csproj.GenerateResource.cache
+C:\Users\25jwh\Desktop\Visual Studio\Assingment 19\Assingment 19\obj\Debug\Assingment 19.csproj.CoreCompileInputs.cache
+C:\Users\25jwh\Desktop\Visual Studio\Assingment 19\Assingment 19\obj\Debug\Assingment 19.exe
+C:\Users\25jwh\Desktop\Visual Studio\Assingment 19\Assingment 19\obj\Debug\Assingment 19.pdb
+C:\Users\25jwh\Desktop\Visual Studio\Assingment 19\Assingment 19\obj\Debug\Assingment 19.exe.config
+C:\Users\25jwh\Documents\Assignment-19-decoder-no-regex (1)\Assingment 19\Assingment 19\bin\Debug\Assingment 19.exe.config
+C:\Users\25jwh\Documents\Assignment-19-decoder-no-regex (1)\Assingment 19\Assingment 19\bin\Debug\Assingment 19.exe
+C:\Users\25jwh\Documents\Assignment-19-decoder-no-regex (1)\Assingment 19\Assingment 19\bin\Debug\Assingment 19.pdb
+C:\Users\25jwh\Documents\Assignment-19-decoder-no-regex (1)\Assingment 19\Assingment 19\obj\Debug\Assingment 19.csproj.AssemblyReference.cache
+C:\Users\25jwh\Documents\Assignment-19-decoder-no-regex (1)\Assingment 19\Assingment 19\obj\Debug\Assingment 19.exe.config
+C:\Users\25jwh\Documents\Assignment-19-decoder-no-regex (1)\Assingment 19\Assingment 19\obj\Debug\Assingment_19.Form1.resources
+C:\Users\25jwh\Documents\Assignment-19-decoder-no-regex (1)\Assingment 19\Assingment 19\obj\Debug\Assingment_19.Properties.Resources.resources
+C:\Users\25jwh\Documents\Assignment-19-decoder-no-regex (1)\Assingment 19\Assingment 19\obj\Debug\Assingment 19.csproj.GenerateResource.cache
+C:\Users\25jwh\Documents\Assignment-19-decoder-no-regex (1)\Assingment 19\Assingment 19\obj\Debug\Assingment 19.csproj.CoreCompileInputs.cache
+C:\Users\25jwh\Documents\Assignment-19-decoder-no-regex (1)\Assingment 19\Assingment 19\obj\Debug\Assingment 19.exe
+C:\Users\25jwh\Documents\Assignment-19-decoder-no-regex (1)\Assingment 19\Assingment 19\obj\Debug\Assingment 19.pdb
